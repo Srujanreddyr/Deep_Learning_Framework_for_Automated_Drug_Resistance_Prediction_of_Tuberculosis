@@ -1,0 +1,2 @@
+# Deep_Learning_Framework_for_Automated_Drug_Resistance_Prediction_of_Tuberculosis
+Tuberculosis (TB) remains one of the most pressing public health challenges worldwide, with drug-resistant strains posing a significant threat to treatment efforts. Traditional methods for detecting drug resistance in tuberculosis involve growing bacterial cultures in the presence of specific drugs to observe the bacteria's response.
